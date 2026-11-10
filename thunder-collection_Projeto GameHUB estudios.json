@@ -1,0 +1,81 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Projeto GameHUB estudios",
+    "collectionId": "55c58634-911c-4bdb-ba0a-147e77c3641c",
+    "dateExported": "2026-11-10T12:22:26.842Z",
+    "version": "1.4",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "72c694b7-2c3e-499a-b1d6-487c014a8e51",
+            "colId": "55c58634-911c-4bdb-ba0a-147e77c3641c",
+            "containerId": "",
+            "name": "GET - estudios",
+            "url": "http://localhost:3000/estudios/1",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2026-11-03T14:04:51.771Z",
+            "modified": "2026-11-03T14:04:51.771Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": [
+                    "{",
+                    "  \"nome\": \"Studio Vitor\",",
+                    "  \"pais\": \"Brasil\"",
+                    "}"
+                ],
+                "form": []
+            }
+        },
+        {
+            "_id": "b1a5e90b-4563-4d3b-8952-a7ccd983e5b1",
+            "colId": "55c58634-911c-4bdb-ba0a-147e77c3641c",
+            "containerId": "",
+            "name": "GET - estudios id",
+            "url": "http://localhost:3000/estudios/1",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2026-11-03T14:05:41.997Z",
+            "modified": "2026-11-03T14:05:41.998Z",
+            "headers": []
+        },
+        {
+            "_id": "df4c7ca7-053d-4a9c-8450-49fd80ebe1ea",
+            "colId": "55c58634-911c-4bdb-ba0a-147e77c3641c",
+            "containerId": "",
+            "name": "POST - estudios",
+            "url": "http://localhost:3000/estudios/1",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2026-11-03T14:46:31.392Z",
+            "modified": "2026-11-03T14:46:31.392Z",
+            "headers": []
+        },
+        {
+            "_id": "14ce9d70-0577-4bcb-af8b-ba300ea46a19",
+            "colId": "55c58634-911c-4bdb-ba0a-147e77c3641c",
+            "containerId": "",
+            "name": "PUT - estudios id",
+            "url": "",
+            "method": "PUT",
+            "sortNum": 35000,
+            "created": "2026-11-03T14:48:23.580Z",
+            "modified": "2026-11-03T14:48:23.580Z",
+            "headers": []
+        },
+        {
+            "_id": "36cb7880-bae1-4a72-806a-51b9ecf083d0",
+            "colId": "55c58634-911c-4bdb-ba0a-147e77c3641c",
+            "containerId": "",
+            "name": "DELETE - estudios id",
+            "url": "http://localhost:3000/estudios/1",
+            "method": "DELETE",
+            "sortNum": 40000,
+            "created": "2026-11-03T14:47:03.167Z",
+            "modified": "2026-11-03T14:47:03.167Z",
+            "headers": []
+        }
+    ],
+    "ref": "YNehF7gtKAa9pugT5CPhcXcgp4U_aa_HmLwmMso3IPGMGoTYpkOhpMyQon89Y_XhJCzWzwi44cWIQrm_9LT47w"
+}

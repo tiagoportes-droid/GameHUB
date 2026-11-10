@@ -1,0 +1,71 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Projeto GameHUB jogos",
+    "collectionId": "c6fc5ae3-06c2-4284-88f4-46d64d141d0b",
+    "dateExported": "2026-11-10T12:22:43.056Z",
+    "version": "1.4",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "26a3b9f7-5a0b-4b1b-8ea2-ee8bfedacd19",
+            "colId": "c6fc5ae3-06c2-4284-88f4-46d64d141d0b",
+            "containerId": "",
+            "name": "GET - jogos",
+            "url": "http://localhost:3000/jogos",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2026-11-03T14:50:32.217Z",
+            "modified": "2026-11-03T14:50:32.217Z",
+            "headers": []
+        },
+        {
+            "_id": "51975e74-eb33-4f49-b24d-86ea1d905f6e",
+            "colId": "c6fc5ae3-06c2-4284-88f4-46d64d141d0b",
+            "containerId": "",
+            "name": "GET - jogos id",
+            "url": "http://localhost:3000/jogos/1",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2026-11-03T14:51:09.930Z",
+            "modified": "2026-11-03T14:51:09.930Z",
+            "headers": []
+        },
+        {
+            "_id": "9524f605-a5a0-411e-ba65-65d269ebf465",
+            "colId": "c6fc5ae3-06c2-4284-88f4-46d64d141d0b",
+            "containerId": "",
+            "name": "POST - jogos",
+            "url": "http://localhost:3000/jogos",
+            "method": "POST",
+            "sortNum": 30000,
+            "created": "2026-11-03T14:52:35.357Z",
+            "modified": "2026-11-03T14:52:35.357Z",
+            "headers": []
+        },
+        {
+            "_id": "13cf7e0d-58f5-40aa-ad74-7213744eb632",
+            "colId": "c6fc5ae3-06c2-4284-88f4-46d64d141d0b",
+            "containerId": "",
+            "name": "PUT - jogos id",
+            "url": "http://localhost:3000/jogos/1",
+            "method": "PUT",
+            "sortNum": 40000,
+            "created": "2026-11-03T14:53:10.442Z",
+            "modified": "2026-11-03T14:53:10.442Z",
+            "headers": []
+        },
+        {
+            "_id": "c04771ac-8f44-486f-acde-fcbac1a28834",
+            "colId": "c6fc5ae3-06c2-4284-88f4-46d64d141d0b",
+            "containerId": "",
+            "name": "DELETE - jogos id",
+            "url": "http://localhost:3000/jogos/1",
+            "method": "DELETE",
+            "sortNum": 50000,
+            "created": "2026-11-03T14:53:30.334Z",
+            "modified": "2026-11-03T14:53:30.334Z",
+            "headers": []
+        }
+    ],
+    "ref": "J5vGRs0N-MmFxMPjQDpq4vTpEc8Vi3NOkhzuEYXOzdsWDGa_sJVSXrHaevSgkLg1VoinAB1jElN36jw7BvhGNA"
+}

@@ -1,0 +1,71 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Projeto GameHUB jogadores",
+    "collectionId": "c7461ae7-73a9-4f40-8228-60f4af069c6c",
+    "dateExported": "2026-11-10T12:22:48.969Z",
+    "version": "1.4",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "4992faca-c8ba-475c-b69d-b7a33f1c9c8e",
+            "colId": "c7461ae7-73a9-4f40-8228-60f4af069c6c",
+            "containerId": "",
+            "name": "GET - jogadores",
+            "url": "http://localhost:3000/jogadores",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2026-11-03T14:55:02.780Z",
+            "modified": "2026-11-03T14:55:02.780Z",
+            "headers": []
+        },
+        {
+            "_id": "28b8c88b-816f-4da8-a789-0ab861d343eb",
+            "colId": "c7461ae7-73a9-4f40-8228-60f4af069c6c",
+            "containerId": "",
+            "name": "GET - jogadores id",
+            "url": "http://localhost:3000/jogadores/1",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2026-11-03T14:55:24.629Z",
+            "modified": "2026-11-03T14:55:24.629Z",
+            "headers": []
+        },
+        {
+            "_id": "1063f4e9-8b04-488a-b84f-d40657538f78",
+            "colId": "c7461ae7-73a9-4f40-8228-60f4af069c6c",
+            "containerId": "",
+            "name": "POST - jogadores",
+            "url": "http://localhost:3000/jogadores",
+            "method": "POST",
+            "sortNum": 30000,
+            "created": "2026-11-03T14:55:43.092Z",
+            "modified": "2026-11-03T14:55:43.092Z",
+            "headers": []
+        },
+        {
+            "_id": "06e57ce4-72dd-4a7b-8f3e-7a68a4c7d9d5",
+            "colId": "c7461ae7-73a9-4f40-8228-60f4af069c6c",
+            "containerId": "",
+            "name": "PUT - jogadores id",
+            "url": "http://localhost:3000/jogadores/1",
+            "method": "PUT",
+            "sortNum": 40000,
+            "created": "2026-11-03T14:56:03.838Z",
+            "modified": "2026-11-03T14:56:03.838Z",
+            "headers": []
+        },
+        {
+            "_id": "f7771d10-af21-4ccb-a322-2550a2520613",
+            "colId": "c7461ae7-73a9-4f40-8228-60f4af069c6c",
+            "containerId": "",
+            "name": "DELETE - jogadores id",
+            "url": "http://localhost:3000/jogadores/1",
+            "method": "DELETE",
+            "sortNum": 50000,
+            "created": "2026-11-03T14:56:16.956Z",
+            "modified": "2026-11-03T14:56:16.956Z",
+            "headers": []
+        }
+    ],
+    "ref": "9LatrAqa6_w7D0GIDoU-p4SlK64tx4hI5JFQLQVB00iIp7hK9-8lKWaIb7rWkXZF1wPeXNykeqFFhsP605B0SQ"
+}
